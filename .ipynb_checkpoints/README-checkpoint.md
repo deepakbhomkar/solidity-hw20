@@ -1,4 +1,5 @@
-# Solidity-HW20
+# solidity-hw20
+Solidity homework 20
 
 ## Background
 
@@ -83,7 +84,7 @@ This will distribute different percentages of incoming Ether to employees at dif
     ![C3_fastforward_100](Images/C3_fastforward_100.png)  
 
 
-##  **Deploy `TieredProfitSplitter` contract to a live Kovan Testnet**    
+## **Deploy `TieredProfitSplitter` contract to a live Kovan Testnet  
 
 Point MetaMask to the Kovan network. Ensure you have test Ether on this network!
 
@@ -95,7 +96,7 @@ Point MetaMask to the Kovan network. Ensure you have test Ether on this network!
 
     ![C2_kovan_deposit](Images/C2_kovan_deposit.png)  
 
-*   Etherscan log for deposit run. This will show that the deposits were made to 3 addresses from sender using contract# 2
+*   Etherscan log for deposit run. This wi llshow that the deposits were made to 3 addresses from sender using contract# 2
 
     ![C2_kovan_etherscan](Images/C2_kovan_etherscan.png)  
 
